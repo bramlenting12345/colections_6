@@ -47,7 +47,7 @@ for i in range (0,7):
 print(" ")
 print("weekend achterste voren geprint ")
 print(" ")
-for i in range (0,3):
+for i in range (0,2):
   print(alle_dagen_week[i])
 #=====================================================================================================  
 
