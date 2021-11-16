@@ -38,11 +38,11 @@ def vraag_mm():
     print(" ")    
     print("hier onder ziet u de inhoud van zakje m&m ")
     print(" ")    
-    index_zak_mm(inhoud_zak_mm,kleuren_mm)      
+    index_zak_mm(inhoud_zak_mm)      
     
 
 
-def index_zak_mm(inhoud_zak_mm,kleuren_mm):
+def index_zak_mm(inhoud_zak_mm):
 
     for x in range (0,4):
         aantal = inhoud_zak_mm.count(kleuren_mm[x])
