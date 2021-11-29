@@ -13,8 +13,8 @@ import random
 #mnmDictionaryBag = {
 
  # ”rood” : 2,
-  #”geel” : 5,
-  #”bruin” : 10
+ # ”geel” : 5,
+ # ”bruin”:10
 #}
 
 #Dus als je een M&M gaat toevoegen aan de zak, zal je functie eerst moeten controleren of deze kleur al eerder is toegevoegd! Is dit niet het geval, dan zal je dus een nieuwe key met de kleur van de M&M moeten toevoegen aan de zak.
